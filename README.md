@@ -3,5 +3,5 @@
 
 
 ### Table Of Content
-- [IPaddr]  (#IPaddr.rs)
+- [IPaddr]
   for processing the ip address and Classless Inter-Domain Routing （CIDR）
