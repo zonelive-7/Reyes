@@ -1,5 +1,6 @@
 # Reyes
-## This is a rust port scanning project trainning purpose for myselves
+## This is a small port scanning project 
+## Using Rust
 
 
 ### Table Of Content
