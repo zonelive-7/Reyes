@@ -2,9 +2,6 @@
 
 > **A port scanner built in Rust.**
 
-![Status](https://shields.io)
-[![Rust](https://shields.io)](https://rust-lang.org)
-
 ⚠️ **Note:** This project is currently **under development** (Work in Progress). Features might change frequently.
 
 ---
