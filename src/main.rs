@@ -41,6 +41,6 @@ async fn main() {
 
 		}
 
-	}
+	}//its all logic need to go {scanner}
 	
 }
