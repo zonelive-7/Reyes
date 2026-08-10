@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+ipnet = "2.12.1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "net", "time", "sync"] }
